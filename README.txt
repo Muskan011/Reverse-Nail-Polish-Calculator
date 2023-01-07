@@ -1,4 +1,3 @@
-PROJECT 1                        ECS 140A
 Name: MUSKAN KUMAR
 For part 1: I created a vector of doubles and then used push_back and pop_back functions to evalute the postfix notation.
             Additionally, I took care of some error such as: Division by 0, 0^0, root of negative numbers, insufficient number of operands, and insufficient number of operators.
@@ -29,4 +28,3 @@ Run using:
     ./a.out
     then choose -l/none
 Note: to change string test[] update test in rpn.cpp and when -l is choosen the answers to both part 1 and 2 will be printed.
-Zip using cmd: zip proj1.zip README.txt rpn.h rpn.cpp
